@@ -1,0 +1,6 @@
+name: inventoryfull
+main: me.jacob.inventoryfull.Main
+description: nothing
+version: 1.0
+author: jacob
+api-version: 1.13
